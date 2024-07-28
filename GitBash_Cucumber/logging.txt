@@ -1,0 +1,84 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "amar",
+    "address": "nashik",
+    "website": "https://rahulshettyacademy.com",
+    "language": "marathi",
+    "location": {
+        "lat": -38.3834941,
+        "lon": 33.4273612
+    },
+    "types": [
+        "shoe park",
+        "shop"
+    ],
+    "phoneNumber": "(+91) 983 893 3937"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "bbb",
+    "address": "ahmdbad",
+    "website": "https://rahulshettyacademy.com",
+    "language": "english",
+    "location": {
+        "lat": -38.3834941,
+        "lon": 33.4273612
+    },
+    "types": [
+        "shoe park",
+        "shop"
+    ],
+    "phoneNumber": "(+91) 983 893 3937"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 50,
+    "name": "ccc",
+    "address": "hjdh",
+    "website": "https://rahulshettyacademy.com",
+    "language": "sajs",
+    "location": {
+        "lat": -38.3834941,
+        "lon": 33.4273612
+    },
+    "types": [
+        "shoe park",
+        "shop"
+    ],
+    "phoneNumber": "(+91) 983 893 3937"
+}
